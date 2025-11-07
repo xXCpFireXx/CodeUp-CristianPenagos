@@ -1,4 +1,4 @@
-package com.riwi.code_up;
+package com.riwi.CodeUp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
